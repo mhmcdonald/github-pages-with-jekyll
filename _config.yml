@@ -3,7 +3,7 @@ author: mhmcdonald
 email: mark@mcdonald.com
 description: > # this means to ignore newlines until "baseurl:"
   Data Engineer, Husband, Dog Dad
-theme: hacker
+theme: jekyll-theme-architect
 
 # social links
 twitter_username: hiesenburg # DO NOT include the @ character, or else the build will fail!
